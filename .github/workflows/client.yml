@@ -33,4 +33,5 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-64-shinbyeonggyu \
             --delete
-        working-directory: scripts
+   
+        working-directory: /Users/shin/Desktop/CodeStates/fe-sprint-my-agora-states-server-reference/my-agora-states-client
